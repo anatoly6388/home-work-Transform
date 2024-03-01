@@ -60,9 +60,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Grow.cs" />
-    <Compile Include="Assets\MoveForvard.cs" />
-    <Compile Include="Assets\Rotate.cs" />
+    <Compile Include="Assets\Rotater.cs" />
+    <Compile Include="Assets\Grower.cs" />
+    <Compile Include="Assets\Mover.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
